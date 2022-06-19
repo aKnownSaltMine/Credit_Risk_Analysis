@@ -10,9 +10,11 @@ The purpose of this study was to create and train a machine learning model in or
 * Recall: 71%
 
 Confusion Matrix
+
 ![naive_oversampling_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/naive_oversampling_cm.PNG)
 
 Classification Report
+
 ![naive_oversampling_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/naive_oversampling_class_report.PNG)
 
 #### SMOTE Oversampling Algorithm
@@ -21,9 +23,11 @@ Classification Report
 * Recall: 63%
 
 Confusion Matrix
+
 ![smote_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/smote_cm.PNG)
 
 Classification Report
+
 ![smote_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/smote_class_report.PNG)
 
 ### Under-sampling
@@ -45,9 +49,11 @@ Classification Report
 * Recall: 72%
 
 Confusion Matrix
+
 ![smoteen_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/smoteen_cm.PNG)
 
 Classification Report
+
 ![smoteen_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/smoteen_class_report.PNG)
 
 ### Ensemble Learners
@@ -57,9 +63,11 @@ Classification Report
 * Recall: 70%
 
 Confusion Matrix
+
 ![balanced_random_forest_classifier_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/balanced_random_forest_classifier_cm.PNG)
 
 Classification Report
+
 ![balanced_random_forest_classifier_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/balanced_random_forest_classifier_class_report.PNG)
 
 #### Easy Ensamble AdaBoost Classifier
@@ -68,9 +76,11 @@ Classification Report
 * Recall: 92%
 
 Confusion Matrix
+
 ![adaboost_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/adaboost_cm.PNG)
 
 Classification Report
+
 ![adaboost_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/adaboost_class_report.PNG)
 
 ## Summary
