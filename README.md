@@ -37,9 +37,11 @@ Classification Report
 * Recall: 69%
 
 Confusion Matrix
+
 ![undersampling_cm](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/undersampling_cm.PNG)
 
 Classification Report
+
 ![undersampling_class_report](https://github.com/aKnownSaltMine/Credit_Risk_Analysis/blob/main/Results/undersampling_class_report.PNG)
 
 ### Combination Over- and Under-Sampling
